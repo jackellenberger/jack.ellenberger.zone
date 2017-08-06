@@ -6,7 +6,7 @@ description: CS Engineer, Braintree Dev, UofC Grad
 keywords: Jack,Ellenberger,JackEllenberger,ellenberger.zone,jack.ellenberger.zone,braintree,uchicago
 # baseurl: /
 url: jack.ellenberger.zone
-img_path: /Jalpc/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
+img_path: /static/assets/img/blog
 
 # author -- index page "about me" section
 author:  # change following line to your infomation.
@@ -22,16 +22,13 @@ author:  # change following line to your infomation.
   cv: /static/assets/ellenberger_resume.pdf  # A online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
-    - name: credit-card
-    - name: i-cursor
+    - name: fa-credit-card
+    - name: fa-i-cursor
   skill_icon2:
-    - name: github
-    - name: linux
+    - name: fa-github
+    - name: fa-linux
   desc: Introduce myself will be here.  # Describe yourself.
 
-# comment
-disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
-  name: jalpc
 
 # analytics
 ## google analytics

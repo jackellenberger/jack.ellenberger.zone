@@ -27,24 +27,24 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-github
     - name: fa-linux
-  desc: Introduce myself will be here.  # Describe yourself.
+  desc: I'm a software developer, currently working for Braintree in Chicago! University of Chicago grad with a BS in Computer Science and a minor in Statistics.
 
 
 # analytics
 ## google analytics
 ga:  # if you wanna this feature, go to https://www.google.com/analytics/ to get your configuration; if not, comment following line.
-  # id:
+  id: UA-104071999-1
 
 ## growingIO
 gio:  # if you wanna this feature, go to https://www.growingio.com/ to get your configuration; if not, comment following line.
   # id:
 
 ## donation
-donation: on  # type 'on'/'off' to choice display donation button at post page or not
+donation: off  # type 'on'/'off' to choice display donation button at post page or not
 
 ## carousels
 index_carousel: on
-blog_carousel: on
+blog_carousel: off
 
 # Build settings
 encoding: utf-8

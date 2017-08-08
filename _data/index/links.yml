@@ -1,18 +1,16 @@
 # links section data
-- last_name: Name 1
-  first_name:
-  desc: CEO
-  website: https://www.google.com
-  email: ceo@google.com
 
-- last_name: Donate
-  first_name: Jalpc
-  desc: Support Jalpc
-  website: http://www.jarrekk.com/donate/
-  email: me@jarrekk.com
+- last_name: Contact
+  first_name: Jack
+  desc: no spam plz
+  email: mailto:jellenberger-at-uchicago-dot-edu
 
-- last_name: LN
-  first_name: FN
-  desc: COO
-  website: https://github.com
-  email: coo@google.com
+- last_name: Linked
+  first_name: In
+  desc: This is an easy way to get in touch!
+  website: https://www.linkedin.com/in/jack-ellenberger-149134b4/
+
+- last_name: Ellenberger.
+  first_name: Zone
+  desc: My Family
+  website: http://ellenberger.zone

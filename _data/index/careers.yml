@@ -1,0 +1,56 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: Braintree/PayPal
+  desc:
+    detail: Joined the Developer Experience team to help improve merchants' interactions with the developer docs and APIs that Braintree provides. This included improving architecture, facilitating the quick release of new features and updates to the API, validating existing documentation against real world integrations, and ensuring that sandbox accounts are a robust representation of the production environment.
+  date:
+    detail: October 2016
+  job:
+    detail: Software Engineer
+  icon: fa-paypal
+  
+- name:
+    detail: Braintree
+  desc:
+    detail: |
+      Signed on as a Support Developer, tasked with helping Product developers test, release, and communicate their changes to both users and other developers. The largest portion of this work was integrating backend changes with the six Server SDKs that Braintree provides, in Java, .NET, Python, Ruby, Node, and PHP. In addition, C++, web, and mobile APIs were maintained and upgraded to allow for a "drop-in" payment experience. <br/><br/>
+      Also handled migrations of customer's personal and payment information into and out of the Braintree payment system, which often included programming new adapters depending on format and data layout. Too often it also included scolding others for their blatent misuses of GPG.
+  date:
+    detail: June 2016
+  job:
+    detail: Software Engineer
+  icon: fa-bold
+  
+- name:
+    detail: The University of Chicago
+  desc:
+    detail: |
+      Exhausted the uchicago CS class catalog and graduated in 2016 after a 4 year program. Course load included Operating Systems, Construction & Implementation of Computer Languages, Mobile Computing, Machine Learning, Complexity Theory, Algorithms & Discrete Math, Networks and Distributed Systems, Scientific Visualization, Computational Linguistics, Computational Biology, and Digital Fabrication. <br/><br/> Outside of the CS program I Participated in ICPC and Hack@uchicago, received a "libreral education", read Gravity's Rainbow (the reason I  minored in Stat, no joke), took severeal quarters on Russian history and revolution. It was a good time.
+  date:
+    detail: June 2016
+  job:
+    detail: B.S. in Computer Science<br/>Minor in Statistics
+  icon: fa-graduation-cap
+  
+- name:
+    detail: Revenew Inc. (Now Aprimo)
+  desc:
+    detail: |
+      Wrote scripts and queries for Piwik Analytics to decrease analysis duration of 14,000+ tracked sites by a factor of 120x while collaborating with creators and users. Designed database and storage procedures to maintain Financial Services data in cloud-based WORM compliant manner. Created automated testing environment to ensure that latency is minimized and reliability is guaranteed for a non URI routable platform.
+  date:
+    detail: Summer 2015
+  job:
+    detail: Operations Administrator & Technologist Intern
+  icon: fa-leaf
+
+- name:
+    detail: Land O'Lakes
+  desc:
+    detail: |
+      Oversaw development of internally used emergency messaging system by offshore team and write its technical documentation and test suite. Wrote tool chain to increase readability of scanned data. Implemented ELMAH system to report client side API errors to developers. Designed and implemented public-facing API and UI for approved milk producers to archive milk quality data sets, as well as for regulators and third parties to audit. Wrote SQL calls to manage login and communication logging. Created scripts to facilitate cleaning of old data. Extended location API to allow for more useful queries.
+  date:
+    detail: Summer 2013, Summer 2014
+  job:
+    detail: Project Management & Application Development Intern
+  icon: fa-industry

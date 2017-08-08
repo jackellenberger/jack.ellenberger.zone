@@ -1,0 +1,20 @@
+# projects section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: Braintree Server SDKs
+  gh_user: braintree
+  repo: braintree_ruby
+  img: /static/assets/img/landing/braintree.png
+  desc: The Braintree Server SDKs soaked up a lot of our time, adding bug fixes, new features, and performance improvements.
+
+- name: Private GitHub Repositories
+  gh_user: jackEllenberger
+  repo: JackEllenbergerPrivateRepositories
+  img: /static/assets/img/landing/incognito.png
+  desc: There are a few projects I have worked on throughout school that I can't share on the open internet (sorry future students), but I can share with you! Just ask.
+
+- name: RotationGL
+  gh_user: jackEllenberger
+  repo: RotationGL
+  img: /static/assets/img/landing/rotational.jpg
+  desc: A blatant ripoff of the game "Rotational" by Kevin Messman, build from the ground up using openGL

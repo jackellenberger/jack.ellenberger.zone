@@ -662,6 +662,10 @@ body.canvas-menu.mini-navbar nav.navbar-static-side {
     padding: 15px 25px
 }
 
+.navbar-brand > a {
+    color: #fff;
+}
+
 .btn-info.active,
 .btn-info:active,
 .btn-primary.active,

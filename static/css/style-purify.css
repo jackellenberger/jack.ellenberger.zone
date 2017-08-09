@@ -255,6 +255,10 @@ body.canvas-menu nav.navbar-static-side {
   padding: 15px 25px;
 }
 
+.navbar-brand > a {
+  color: #fff;
+}
+
 .btn-info.active,.btn-info:active,.btn-primary.active,.btn-primary:active,.btn-success.active,.btn-success:active {
   background-image: none;
 }
